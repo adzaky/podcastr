@@ -1,7 +1,5 @@
 const CreatePodcast = () => {
-  return (
-    <div>CreatePodcast</div>
-  )
-}
+  return <div>CreatePodcast</div>;
+};
 
-export default CreatePodcast
+export default CreatePodcast;
